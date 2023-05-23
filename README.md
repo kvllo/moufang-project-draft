@@ -1,1 +1,0 @@
-# moufang-project-draft
